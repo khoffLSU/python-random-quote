@@ -6,9 +6,9 @@ def primary():
   with open("quotes.txt") as f:
     quotes = f.readlines()
 
-  rnd = random.randint(0,len(quotes)-1)
-  print(quotes[rnd])
-  print(quotes[rnd])
+  for i in range(2):
+    rnd = random.randint(0,len(quotes)-1)
+    print(quotes[rnd])
 
 if __name__== "__main__":
   primary()
