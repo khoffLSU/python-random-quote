@@ -12,3 +12,22 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Py- Beautiful is better than ugly.
+Py- Explicit is better than implicit.
+Py- Simple is better than complex.
+Py- Complex is better than complicated.
+Py- Flat is better than nested.
+Py- Sparse is better than dense.
+Py- Readability counts.
+Py- Special cases aren't special enough to break the rules.
+Py- Although practicality beats purity.
+Py- Errors should never pass silently.
+Py- Unless explicitly silenced.
+Py- In the face of ambiguity, refuse the temptation to guess.
+Py- There should be one-- and preferably only one --obvious way to do it.
+Py- Although that way may not be obvious at first unless you're Dutch.
+Py- Now is better than never.
+Py- Although never is often better than *right* now.
+Py- If the implementation is hard to explain, it's a bad idea.
+Py- If the implementation is easy to explain, it may be a good idea.
+Py- Namespaces are one honking great idea -- let's do more of those!
